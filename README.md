@@ -16,4 +16,4 @@ Evil Robot- Mobile, during collision with Game Robot, Game Robot is deleted<br /
 Beam Robot- Mobile, Has beams facing the direction of movement, once another robot is within these beams the Beam Robot changes direction to avoid direct collision<br />
 Whisker Robot- Mobile, has whiskers facing at +/-45 degrees of direction of movement, once another robot collides with these whiskers the Whisker Robot changes direction<br />
 Bumper Robot- Mobile, surrounded by a 360 degree bumper, once the bumper collides with another Robot the Bumper Robot changes direction to avoid collision<br />
-Slider Robot- Mobile, only moves laterally, serving as an obstacle for other Robots<br />
+Slider Robot- Mobile, only moves laterally, serving as an obstacle for other Robots (not completely functional) <br />
